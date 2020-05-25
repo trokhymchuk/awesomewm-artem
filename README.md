@@ -14,6 +14,6 @@ Fork of material-awesome (https://github.com/ChrisTitusTech/material-awesome) + 
 - brightnessctl for brightness control - brightnessctl
 - (Optional) Materia as GTK theme - Arch Install: materia-theme debian: materia-gtk-theme
 - (Optional) Papirus Dark as icon theme Universal Install: wget -qO- https://git.io/papirus-icon-theme-install | sh
-- (Optional) lxappearance to set up the gtk and icon theme
+- (Optional) lxappearance to set up the gtk and icon theme - lxappearance
 - (Optional) kde-spectacle - spectacle
 
