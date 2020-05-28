@@ -13,12 +13,12 @@ Fork of material-awesome (https://github.com/ChrisTitusTech/material-awesome).
 - polkit - `polkit`
 - pulseaduio for sound control - `pulseaudio`
 - brightnessctl for brightness control - `brightnessctl`
-- (Optional) Materia as GTK theme - `materia-theme`
-- (Optional) Papirus Dark as icon theme Universal Install - `wget -qO- https://git.io/papirus-icon-theme-install | sh`
-- (Optional) lxappearance to set up the gtk and icon theme - `lxappearance`
-- (Optional) kde-spectacle - `spectacle`
+- Materia as GTK theme - `materia-theme`
+- Papirus Dark as icon theme Universal Install - `wget -qO- https://git.io/papirus-icon-theme-install | sh`
+- lxappearance to set up the gtk and icon theme - `lxappearance`
+- kde-spectacle - `spectacle`
 ### Configuration
-clone from repository - `git clone https://gitlab.com/artemtrokhymchuk/awesomewm-artem.git ~/.config/awesome`
+Clone from repository - `git clone https://gitlab.com/artemtrokhymchuk/awesomewm-artem.git ~/.config/awesome`
 
 ## Audio control
 1. Install pulseaudio
