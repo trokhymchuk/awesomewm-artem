@@ -15,8 +15,8 @@ Fork of material-awesome (https://github.com/ChrisTitusTech/material-awesome).
 - brightnessctl for brightness control - `brightnessctl`
 - Materia as GTK theme - `materia-theme`
 - Papirus Dark as icon theme Universal Install - `wget -qO- https://git.io/papirus-icon-theme-install | sh`
-- lxappearance to set up the gtk and icon theme - `lxappearance`
-- kde-spectacle - `spectacle`
+- Lxappearance to set up the gtk and icon theme - `lxappearance`
+- Kde-spectacle - `spectacle`
 ### Configuration
 Clone from repository - `git clone https://gitlab.com/artemtrokhymchuk/awesomewm-artem.git ~/.config/awesome`
 
