@@ -18,7 +18,7 @@ Fork of material-awesome (https://github.com/ChrisTitusTech/material-awesome).
 - Lxappearance to set up the gtk and icon theme - `lxappearance`
 - Kde-spectacle - `spectacle`
 ### Configuration
-Clone from repository - `git clone https://gitlab.com/artemtrokhymchuk/awesomewm-artem.git ~/.config/awesome`
+Clone from repository - `git clone https://github.com/trokhymchuk/awesomewm-artem.git ~/.config/awesome`
 
 ## Audio control
 1. Install pulseaudio
