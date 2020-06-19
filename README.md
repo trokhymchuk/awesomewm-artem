@@ -1,7 +1,7 @@
 # AwesomeWM-artem
 Fork of material-awesome (https://github.com/ChrisTitusTech/material-awesome).
 
-## To install (Arch? Arch-based):
+## To install (Arch, Arch-based):
 ### Packages
 - AwesomeWM as the window manager - `awesome`
 - Roboto as the font - `ttf-roboto`
